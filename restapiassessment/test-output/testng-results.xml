@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="766" started-at="2020-10-20T10:07:10Z" finished-at="2020-10-20T10:07:11Z">
+  <suite name="Default suite" duration-ms="783" started-at="2020-10-27T04:16:03Z" finished-at="2020-10-27T04:16:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="766" started-at="2020-10-20T10:07:10Z" finished-at="2020-10-20T10:07:11Z">
+    <test name="Default test" duration-ms="783" started-at="2020-10-27T04:16:03Z" finished-at="2020-10-27T04:16:04Z">
       <class name="rest_api_assessment.exercise1_restapi">
-        <test-method status="FAIL" signature="get_available_pets()[pri:0, instance:rest_api_assessment.exercise1_restapi@968a59]" name="get_available_pets" duration-ms="659" started-at="2020-10-20T10:07:10Z" finished-at="2020-10-20T10:07:11Z">
+        <test-method status="FAIL" signature="get_available_pets()[pri:0, instance:rest_api_assessment.exercise1_restapi@968a59]" name="get_available_pets" duration-ms="686" started-at="2020-10-27T04:16:03Z" finished-at="2020-10-27T04:16:04Z">
           <exception class="java.lang.NoClassDefFoundError">
             <message>
               <![CDATA[io/restassured/mapper/factory/GsonObjectMapperFactory]]>
